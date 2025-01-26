@@ -1,0 +1,198 @@
+body {
+    background-color: #5AA5E8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#topo-site {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    
+}
+
+#logo-bds {
+    width: 30px;
+    height: 77px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    margin-top: 7px;
+    margin-left: 70px;
+}
+
+#cadastro {
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    margin-top: 35px;
+    font-size: 15px;
+    font-family: inherit;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+#cadastro a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(0, 89, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#cadastro a:hover {
+    background-color: blue;
+    box-shadow: 6px 6px 12px #b0b0b0, -6px -6px 12px #f0f0f0;
+}
+
+#menu-site {
+    width: auto;
+    height: 46px;
+    background-color: white;
+    margin-top: 25px;
+    float: left;
+    margin-left: 430px;
+}
+
+#menu-site ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+#menu-site ul li {
+    display: inline;
+}
+
+#menu-site ul li a {
+    float: left;
+    text-decoration: none;
+    color: #5AA5E8;
+    font-size: 20px;
+    padding: 10.5px 11px;
+    margin-left: 70px;
+    background-color: white;
+}
+
+#menu-site ul li a:visited {
+    color: #5AA5E8;
+}
+
+#menu-site ul li a:hover, #menu-site ul li .current {
+    color: #5AA5E8;
+    background-color: white;
+}
+
+/* Estilo Geral */
+#perfilEmpresa {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f5f7fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 150px; /* Dá espaço abaixo do topo fixo */
+}
+
+#perfilEmpresa h1 {
+    text-align: center;
+    color: #4A90E2;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+/* Card Principal */
+.empresaCard {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Cabeçalho: Foto e Nome */
+.empresaHeader {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.empresaFoto img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #4A90E2;
+}
+
+.empresaInfo h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333333;
+}
+
+.empresaInfo p {
+    margin: 5px 0;
+    color: #666666;
+}
+
+/* Blocos Brancos para Informações */
+.empresaDetails, .empresaBio {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.detailBox {
+    flex: 1 1 calc(50% - 15px); /* Duas colunas */
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.detailBox:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.detailBox p {
+    margin: 0;
+    font-size: 1em;
+    color: #333333;
+}
+
+.detailBox strong {
+    font-size: 1.1em;
+    color: #4A90E2;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .empresaHeader {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .empresaFoto img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .empresaDetails .detailBox {
+        flex: 1 1 100%; /* Uma coluna em telas menores */
+    }
+}
