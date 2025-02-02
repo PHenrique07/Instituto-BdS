@@ -18,7 +18,7 @@ Instalação do Projeto:
 
 Após clonar ou baixar o repositório do projeto, copie os arquivos e cole-os dentro da pasta htdocs, localizada no diretório onde o XAMPP foi instalado.
 Exemplo no Windows: C:\xampp\htdocs
-Certifique-se de que todos os arquivos do projeto estejam organizados conforme o repositório original
+Certifique-se de que todos os arquivos do projeto estejam organizados conforme o repositório original.
 
 
 Certifique-se de ajustar o caminho do banco de dados no código conforme a localização do arquivo em seu computador. Além disso, garanta que o XAMPP esteja ativo, com os serviços MySQL e Apache devidamente iniciados.
