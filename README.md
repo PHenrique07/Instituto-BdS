@@ -59,7 +59,7 @@ Instituto-BdS/
 
 ## 👥 Integrantes
 
-- [Pedro Henrique Santos da Silva](www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349)
+- [Pedro Henrique Santos da Silva](https://www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349/)
 - [Davi Tosatti](https://www.linkedin.com/in/davi-tosatti-042b7519a/)
 - [Gabriel Vaz Ferreira](https://www.linkedin.com/in/gabriel-vaz-284608351/)
 - [Lucas Henrique Furtado da Rosa Pio]
