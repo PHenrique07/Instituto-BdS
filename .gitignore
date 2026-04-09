@@ -1,0 +1,14 @@
+# Credenciais do banco - NUNCA suba este arquivo
+src/pages/conexao-bds.php
+
+# Arquivos compactados desnecessários
+*.rar
+*.zip
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e caches
+*.log
+/tmp/
