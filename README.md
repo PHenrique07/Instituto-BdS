@@ -57,9 +57,11 @@ Instituto-BdS/
 ## 👥 Integrantes
 
 
-- Pedro Henrique Santos da Silva
-- Davi Tosatti
-- Gabriel Vaz Ferreira
-- Lucas Henrique Furtado da Rosa Pio
-- Igor Costa
-- Carlos Augusto Pires
+## 👥 Integrantes
+
+- [Pedro Henrique Santos da Silva](www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349)
+- [Davi Tosatti](https://www.linkedin.com/in/davi-tosatti-042b7519a/)
+- [Gabriel Vaz Ferreira](https://www.linkedin.com/in/gabriel-vaz-284608351/)
+- [Lucas Henrique Furtado da Rosa Pio]
+- [Igor Costa](https://www.linkedin.com/in/igor-costa-417405355/)
+- [Carlos Augusto Pires](https://www.linkedin.com/in/carlos-pires01/)
