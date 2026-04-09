@@ -54,7 +54,7 @@ Instituto-BdS/
 
 5. Acesse `http://localhost/Instituto-BdS/src/pages/index.php`
 
-## 👥 Integrantes
+
 
 
 ## 👥 Integrantes
