@@ -1,6 +1,6 @@
 # Instituto BdS
 
-Projeto desenvolvido no curso técnico para conscientizar trabalhadores — especialmente jovens ingressando no mercado — sobre direitos trabalhistas, boas condições de trabalho e empresas que oferecem ambientes dignos.
+Projeto desenvolvido no curso técnico em informática no Senac Lapa Tito para conscientizar trabalhadores, especialmente jovens ingressando no mercado, sobre direitos trabalhistas, boas condições de trabalho e empresas que oferecem ambientes dignos.
 
 ## 🛠 Tecnologias
 
@@ -16,7 +16,7 @@ Instituto-BdS/
 ├── src/
 │   ├── pages/     ← páginas PHP e lógica da aplicação
 │   ├── admin/     ← área administrativa (listas de login)
-│   ├── css/       ← folhas de estilo
+│   ├── css/       ← estilo
 │   └── img/       ← imagens
 ├── database/
 │   └── schema.sql ← estrutura do banco de dados
@@ -56,7 +56,10 @@ Instituto-BdS/
 
 ## 👥 Integrantes
 
-<!-- Adicione os nomes do grupo aqui -->
-- Nome 1
-- Nome 2
-- Nome 3
+
+- Pedro Henrique Santos da Silva
+- Davi Tosatti
+- Gabriel Vaz Ferreira
+- Lucas Henrique Furtado da Rosa Pio
+- Igor Costa
+- Carlos Augusto Pires
